@@ -6,46 +6,6 @@
 5. Weekday button: click on each button to see if tasks is distributed correctly.
 
 
-**Resources:**
-1. YouTube video on TimePickerFragment: https://www.youtube.com/watch?v=QMwaNN_aM3U
-2. YouTube video on AlarmManager: https://www.youtube.com/watch?v=yrpimdBRk5Q&t=606s
-
-
-**Commit messages:**
-
-May 24 2020, "Update README.md with sources of references" by tdt45
-May 24 2020, "Add README.md -> Guide on testing the app" bt tdt45
-May 24 2020, "New code for the project: Update on listview for tasks on main page and on Weekday tasks, also new code on notification" by tdt45
-May 24 2020, "Delete the master branch to reupload code" by tdt45
-
-April 27 2020, "Issue with ArrayAdapter.java" by Chad Mestres
-April 27 2020, "Error with my ArrayAdapter file" by Chad Mestres
-
-April 10 2020, "Incompete migration to Navigation Activity" by Chad Mestres
-
-March 27 2020, "Merge branch 'Chad' into 'master'" by dhc45
-
-March 8 2020, "Merge branch 'Namir' into 'master'" by nw494
-March 8 2020, "Added credit to code" by nw494
-March 8 2020, "Changed hint color in add page" by Chad Mestres
-
-March 6 2020, "fixed the colors" by Chad Mestres
-March 6 2020, "Added color to project and centered text in Detail Activity" by Chad Mestres
-
-March 2 2020, "added a calender to Detail Activity page"
-
-February 28 2020, "Done Button for credit view" by Chad Mestres
-February 28 2020, "Merge branch 'Namir' into 'master'" by tdt45
-February 28 2020, "chang detail activity layout" by nw494
-February 28 2020, "wrap content for title" by Chad Mestres
-February 28 2020, "credit activity added" by Chad Mestres
-February 28 2020, "Add getTaskName and removeTask function" by tdt45
-February 28 2020, "Merge branch 'Chad' into 'master'" by dhc45
-February 28 2020, "Change Layout and Delete code in Detail Act" by Chad Mestres
-February 28 2020, "functional credit button" by Chad Mestres
-
-February 22 2020, "Clean some code, make the code shorter for Main Activity" by tdt45
-
 **User Guide**
 
 **How to use different features of the app**
